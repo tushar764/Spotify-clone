@@ -43,7 +43,7 @@ async function getsongs(folder) {
 
         // return songs;
     } catch (error) {
-        console.error("error h ba")
+        console.error("error")
     }
 }
 
